@@ -1,0 +1,115 @@
+\documentclass[12pt,a4paper,sans]{moderncv}
+\definecolor{color1}{rgb}{0.149, 0.3804, 0.6118} %% #26619c - lapis lazuli
+\moderncvstyle[]{classic}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage[scale=0.78]{geometry}
+\usepackage{lmodern}
+
+\newcommand{\tech}[1]{\par $\triangleright$ #1}
+
+\firstname{Horst}
+\familyname{Dehmer}
+\title{CV}
+\address{Simmeringer Hauptstraße 48/2/48}{1110 Wien}{Österreich}
+\mobile{+43~(664)~544~1826}
+\email{horst.dehmer@gmail.com}
+\social[github]{github.com/dehmer}
+
+\quote{Controlling complexity is the essence of computer programming. --- Brian W. Kernighan (1976)}
+
+\begin{document}
+\makecvtitle
+
+\section{Persönliche Informationen}
+\cvitem{Staatsbürger\-schaft}{Deutsch}
+\cvitem{Geburtsdatum, --Ort}{11. August 1969, Darmstadt, Deutschland}
+
+\section{Ausbildung}
+\cventry
+{1989--1999}
+{Diplom-Informatik}
+{Technische Universität}
+{Darmstadt, Deutschland}
+{}
+{Nebenfach: Arbeits--, Betriebs-- und Organisationspsychologie}
+
+\section{Berufliche Erfahrungen}
+\input{vocational/SYNCPOINT.de.tex}
+\input{vocational/GUSTAV.de.tex}
+\input{vocational/BOOST.de.tex}
+\input{vocational/FFT-2.de.tex}
+\input{vocational/PV-METERING.de.tex}
+\input{vocational/KOSINUS.de.tex}
+\input{vocational/COVID-19.de.tex}
+\input{vocational/PIONEER.de.tex}
+\input{vocational/GASPORTAL.de.tex}
+\input{vocational/FFT-1.de.tex}
+\input{vocational/COMMGW.de.tex}
+\input{vocational/FUEZNATLV.de.tex}
+\input{vocational/PHOENIX.de.tex}
+\input{vocational/MACH-CARGO.de.tex}
+\input{vocational/LOGIN.de.tex}
+\input{vocational/HIS.de.tex}
+
+\section{Studentische Tätigkeiten}
+\input{contracting/5-POINT.de.tex}
+\input{contracting/HISERV.de.tex}
+\input{contracting/SYSTAN.de.tex}
+\input{contracting/DEBIS.de.tex}
+
+\section{Open-Source Projekte}
+\input{oss/SIGNAL.de.tex}
+\input{oss/SIGNS.de.tex}
+\input{oss/WKX.de.tex}
+\input{oss/ODIN.de.tex}
+
+\section{Sprachen}
+\cvitemwithcomment{Deutsch}{Muttersprache}{}
+\cvitemwithcomment{Englisch}{fließend}{C2}
+\cvitemwithcomment{Spanisch}{fortgeschritten}{B2}
+\cvitemwithcomment{Japanisch}{grundlegende Grammatik und Schriftsysteme}{JLPT N5}
+
+\section{Kenntnisse, Fähigkeiten}
+
+\cvitem{Paradigmen}{
+  Profundes Verständnis von objektorientiertem Softwareentwurf und --entwicklung.
+  Praktische Erfahrungen mit lose gekoppelten, asynchronen Systemen im Kleinen wie im Großen.
+  Gesundes Interesse an funktionaler Programmierung, nicht-blockierender Nebenläufigkeit
+  sowie unveränderlichen Datenstrukturen und algebraische Datentypen.
+}
+
+\cvitem{Betriebs\-systeme}{macOS, Debian, RedHat, Windows, Android}
+\cvitem{Programmier\-sprachen}{JavaScript/ECMAScript, PL/pgSQL, Scala, Java, bash/sh Script, \LaTeX}
+\cvitem{Relationale Datenbanken}{PostgreSQL/PostGIS, SQLite, Oracle}
+\cvitem{NoSQL}{LevelDB, MongoDB, Redis, CouchDB}
+\cvitem{Middleware}{RabbitMQ, Matrix, ActiveMQ, {\O}MQ}
+\cvitem{Frameworks}{React, Solid.js, OpenLayers, JavaScript Topology Suite}
+\cvitem{Werkzeuge}{Node.js/npm, Electron, git, Docker, Visual Studio Code}
+
+\section{Zertifikate}
+\cvlistitem{IBM MQSeries Anwendungsprogrammierung auf Workstations}
+\cvlistitem{Sun Certified Programmer for Java Platform}
+\cvlistitem{Functional Programming Principles in Scala (mit Auszeichnung)}
+\cvlistitem{Principles of Reactive Programming in Scala (mit Auszeichnung)}
+\cvlistitem{MongoDB University -- MongoDB for Node.js Developers}
+
+\section{Literatur}
+\cvlistitem{\textbf{The Inmates Are Running the Asylum}: Why High Tech Products Drive Us Crazy and How to Restore the Sanity, \emph{Alan Cooper}}
+\cvlistitem{\textbf{Living with Complexity} \emph{Donald A. Norman}}
+\cvlistitem{\textbf{Lean Software Development}: An Agile Toolkit, \emph{Poppendieck/Poppendieck}}
+\cvlistitem{\textbf{Domain Driven Design}: Tackling Complexity in the Heart of Software, \emph{Eric Evans}}
+\cvlistitem{\textbf{Peopleware}: Productive Projects and Teams, \emph{Tom DeMarco, Timothy Lister}}
+\cvlistitem{\textbf{Das Buch der Fünf Ringe} \emph{Miyamoto Musashi}}
+\cvlistitem{\textbf{Die Kunst des Krieges} \emph{Sun Tzu/Sunzi}}
+\cvlistitem{\textbf{Der Fürst} \emph{Niccolò Machiavelli}}
+
+\section{Freizeit}
+\cvlistitem{\textbf{Wandern, Laufen}}
+\cvlistitem{\textbf{Shod\={o}}: Japanische Kalligraphie}
+\cvlistitem{\textbf{Sh\={o}t\={o}kan Karate}: 1985-2022. Trainer, 2. Dan}
+\cvlistitem{\textbf{Gitarre}: 1997-2004 Rhythmusgitarre in Coverband \emph{Over'n'Out}}
+
+\end{document}

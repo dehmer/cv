@@ -1,0 +1,103 @@
+\documentclass[12pt,a4paper,sans]{moderncv}
+\definecolor{color1}{rgb}{0.149, 0.3804, 0.6118} %% #26619c - lapis lazuli
+\moderncvstyle[]{classic}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage[scale=0.78]{geometry}
+\usepackage{lmodern}
+
+\newcommand{\tech}[1]{\par $\triangleright$ #1}
+
+\firstname{Horst}
+\familyname{Dehmer}
+\title{CV}
+\address{Simmeringer Hauptstrasse 48/2/48}{1110 Vienna}{Austria}
+\mobile{+43~(664)~544~1826}
+\email{horst.dehmer@gmail.com}
+\social[github]{github.com/dehmer}
+
+\quote{Controlling complexity is the essence of computer programming. --- Brian Kernighan (1976)}
+
+\begin{document}
+\makecvtitle
+
+\section{Personal Data}
+\cvitem{Citizenship}{German}
+\cvitem{Date and Place of Birth}{August 11, 1969, Darmstadt, Germany}
+
+\section{Education}
+\cventry
+{1989--1999}
+{Graduate degree in computer science}
+{}
+{Technical University}
+{Darmstadt, Germany}
+{Subsidiary Subject: Organizational Psychology}
+
+\section{Vocational experience}
+\input{vocational/SYNCPOINT.en.tex}
+\input{vocational/GUSTAV.en.tex}
+\input{vocational/BOOST.en.tex}
+\input{vocational/FFT-2.en.tex}
+\input{vocational/PV-METERING.en.tex}
+\input{vocational/KOSINUS.en.tex}
+\input{vocational/COVID-19.en.tex}
+\input{vocational/PIONEER.en.tex}
+\input{vocational/GASPORTAL.en.tex}
+\input{vocational/FFT-1.en.tex}
+\input{vocational/COMMGW.en.tex}
+\input{vocational/FUEZNATLV.en.tex}
+\input{vocational/PHOENIX.en.tex}
+\input{vocational/MACH-CARGO.en.tex}
+\input{vocational/LOGIN.en.tex}
+\input{vocational/HIS.en.tex}
+
+\section{Contracting}
+\input{contracting/5-POINT.en.tex}
+\input{contracting/HISERV.en.tex}
+\input{contracting/SYSTAN.en.tex}
+\input{contracting/DEBIS.en.tex}
+
+
+\section{Open-Source Projects}
+\input{oss/SIGNAL.en.tex}
+\input{oss/SIGNS.en.tex}
+\input{oss/WKX.en.tex}
+\input{oss/ODIN.en.tex}
+
+\begin{samepage}
+\section{Languages}
+\cvitemwithcomment{German}{native}{}
+\cvitemwithcomment{English}{fluent}{C2}
+\cvitemwithcomment{Spanish (Castilian)}{advanced}{C1}
+\cvitemwithcomment{Japanese}{basic grammar and writing systems}{JLPT N5}
+\end{samepage}
+
+\section{Proficiencies, Skills}
+\cvitem{Paradigms}{Deep and profound understanding of object-oriented software design and development. Practical experiences of loosly coupled systems in the small and large by means of asynchronous message passing. Healthy interest in functional-style programming, non-blocking concurrency and immutable data structures.}
+\cvitem{Operating Systems}{macOS, Debian, RedHat, Windows, Android}
+\cvitem{Programming Languages}{JavaScript/ECMAScript 6, Scala, Java, pg/pl SQL, bash/sh Script, \LaTeX}
+\cvitem{Relational Database Systems}{PostgreSQL/PostGIS, SQLite, Oracle}
+\cvitem{NoSQL}{MongoDB, LevelDB, Redis, CouchDB}
+\cvitem{Middleware}{RabbitMQ, ActiveMQ, {\O}MQ}
+\cvitem{Frameworks}{React, Solid.js, OpenLayers, JavaScript Topology Suite}
+\cvitem{Tools, Platforms}{Node.js/NPM, Electron, Docker, Visual Studio Code, git}
+
+\section{Favorite Literature}
+\cvlistitem{\textbf{The Art of War}, \textit{Sun Tzu}}
+\cvlistitem{\textbf{Domain Driven Design}: Tackling Complexity in the Heart of Software, \textit{Eric Evans}}
+\cvlistitem{\textbf{Clean Code}: A Handbook of Agile Software Craftsmanship, \textit{Robert C. Martin}}
+\cvlistitem{\textbf{The Inmates Are Running the Asylum}: Why High Tech Products Drive Us Crazy and How to Restore the Sanity, \textit{Alan Cooper}}
+\cvlistitem{\textbf{Peopleware}: Productive Projects and Teams, \textit{Tom DeMarco, Timothy Lister}}
+\cvlistitem{\textbf{The Book of Five Rings}, \textit{Miyamoto Musashi}}
+
+\section{Hobbies}
+\cvlistitem{\textbf{Running}}
+\cvlistitem{\textbf{Shotokan Karate}: 1985-2022, Instructor, 2. Dan}
+\cvlistitem{\textbf{Darts}}
+\cvlistitem{\textbf{Shod\={o}}: Japanese Calligraphy}
+\cvlistitem{\textbf{Guitar}: 1997-2004 Rhythm guitar and backing vocals in coverband}
+
+\end{document}
