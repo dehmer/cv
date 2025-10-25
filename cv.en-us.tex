@@ -71,22 +71,29 @@
 \section{Languages}
 \cvitemwithcomment{German}{native}{}
 \cvitemwithcomment{English}{fluent}{C2}
-\cvitemwithcomment{Spanish (Castilian)}{advanced}{C1}
+\cvitemwithcomment{Spanish}{advanced}{C1}
 \cvitemwithcomment{Japanese}{basic grammar and writing systems}{JLPT N5}
 \end{samepage}
 
+\iffalse
+\section{Skills}
+\setcvskillcolumns[10em][0.9][]
+\cvskillhead[-0.1em][Level][Skill][Years][]
+\input{skills.tex}
+\fi
+
 \section{Proficiencies, Skills}
-\cvitem{Paradigms}{Deep and profound understanding of object-oriented software design and development. Practical experiences of loosly coupled systems in the small and large by means of asynchronous message passing. Healthy interest in functional-style programming, non-blocking concurrency and immutable data structures.}
-\cvitem{Operating Systems}{macOS, Debian, RedHat, Windows, Android}
-\cvitem{Programming Languages}{JavaScript/ECMAScript 6, Scala, Java, pg/pl SQL, bash/sh Script, \LaTeX}
-\cvitem{Relational Database Systems}{PostgreSQL/PostGIS, SQLite, Oracle}
-\cvitem{NoSQL}{MongoDB, LevelDB, Redis, CouchDB}
-\cvitem{Middleware}{RabbitMQ, ActiveMQ, {\O}MQ}
-\cvitem{Frameworks}{React, Solid.js, OpenLayers, JavaScript Topology Suite}
-\cvitem{Tools, Platforms}{Node.js/NPM, Electron, Docker, Visual Studio Code, git}
+\input{skills/PARADIGMS.en.tex}
+\input{skills/OS.en.tex}
+\input{skills/LANG.en.tex}
+\input{skills/RDBMS.en.tex}
+\input{skills/NOSQL.xx.tex}
+\input{skills/MIDDLEWARE.xx.tex}
+\input{skills/FRAMEWORKS.xx.tex}
+\input{skills/TOOLS.en.tex}
 
 \section{Certificates}
-\cvlistitem{IBM MQSeries Workstation Application Development}
+\cvlistitem{IBM MQSeries -- Application Development for Workstations}
 \cvlistitem{Sun Certified Programmer for Java Platform}
 \cvlistitem{Functional Programming Principles in Scala (with distinction)}
 \cvlistitem{Principles of Reactive Programming in Scala (with distinction)}
