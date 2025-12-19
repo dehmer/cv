@@ -1,0 +1,26 @@
+Anrede...,
+
+mit großem Interesse bewerbe ich mich um die Position des Senior Java Backend
+Developers bei STATISTIK AUSTRIA. Die Kombination aus anspruchsvoller
+Softwareentwicklung und dem hohen gesellschaftlichen Nutzen Ihrer Arbeit
+spricht mich sehr an.
+
+Ich verfüge über langjährige Erfahrung in der Entwicklung und Wartung komplexer
+Backend-Systeme mit Java. Dazu zählen unter anderem der Einsatz moderner
+Java-Versionen, gängiger Frameworks wie Spring bzw. Spring Boot, die Umsetzung
+von REST-Schnittstellen sowie die Arbeit mit relationalen Datenbanken.
+Besonderen Wert lege ich auf saubere Architektur, Code-Qualität, Sicherheit
+und nachhaltige Wartbarkeit.
+
+In meiner Rolle als Senior Developer übernehme ich Verantwortung für
+technische Entscheidungen, unterstütze Teammitglieder fachlich und arbeite
+eng mit Stakeholdern zusammen, um stabile und effiziente Lösungen umzusetzen.
+Strukturierte Entwicklungsprozesse und Qualitätssicherung sind dabei für mich
+selbstverständlich.
+
+STATISTIK AUSTRIA bietet ein Umfeld, in dem IT-Lösungen einen unmittelbaren
+Beitrag zu Transparenz, Entscheidungsfindung und Vertrauen in öffentliche
+Daten leisten. Gerne möchte ich meine Erfahrung einbringen, um diese Systeme
+weiterzuentwickeln und langfristig zu stärken.
+
+Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr.

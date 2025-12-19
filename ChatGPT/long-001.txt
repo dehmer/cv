@@ -1,0 +1,39 @@
+Anrede...,
+
+mit großem Interesse bewerbe ich mich um die Position des Senior Java Backend Developers
+bei Statistik Austria. Die Verbindung aus moderner Softwareentwicklung, gesellschaftlicher
+Relevanz und hoher Datenqualität spricht mich in besonderem Maße an.
+Als erfahrener Backend-Entwickler mit fundierten Kenntnissen in der Java-Entwicklung
+sowie in der Konzeption robuster, skalierbarer Systeme möchte ich meine Expertise
+gerne in den Dienst einer zentralen öffentlichen Institution stellen.
+
+In meiner bisherigen beruflichen Laufbahn habe ich umfassende Erfahrung in der
+Entwicklung und Wartung komplexer Backend-Systeme auf Basis von Java gesammelt.
+Dazu zählen unter anderem die Arbeit mit modernen Java-Versionen, gängigen Frameworks
+wie Spring bzw. Spring Boot, der Entwurf und die Implementierung von
+REST-Schnittstellen sowie die Anbindung relationaler und nicht-relationaler
+Datenbanksysteme. Ein besonderer Fokus lag dabei stets auf sauberer Architektur,
+Wartbarkeit, Performance und Sicherheit der Anwendungen.
+
+Als Senior Developer übernehme ich nicht nur Verantwortung für die technische Umsetzung,
+sondern auch für Architekturentscheidungen, Code-Qualität und die fachliche Unterstützung
+von Teammitgliedern. Die enge Zusammenarbeit mit Fachabteilungen, die Analyse
+komplexer Anforderungen sowie die nachhaltige Umsetzung stabiler Lösungen gehören
+für mich selbstverständlich dazu. Qualitätssicherung, automatisierte Tests und
+strukturierte Entwicklungsprozesse sind dabei zentrale Bestandteile meiner Arbeitsweise.
+
+Statistik Austria überzeugt mich insbesondere durch den hohen gesellschaftlichen
+Nutzen ihrer Arbeit. Verlässliche, transparente und qualitativ hochwertige
+statistische Informationen sind eine wesentliche Grundlage für politische Entscheidungen,
+Wissenschaft und Öffentlichkeit. An der Entwicklung jener IT-Systeme mitzuwirken,
+die diese Daten verarbeiten, absichern und bereitstellen, empfinde ich als äußerst
+sinnstiftend und motivierend.
+
+Ich arbeite strukturiert, lösungsorientiert und verlässlich, schätze langfristige
+Perspektiven und identifiziere mich mit den Werten des öffentlichen Dienstes.
+Gleichzeitig bringe ich die notwendige Offenheit für technologische Weiterentwicklung
+und moderne Softwarearchitektur mit, um bestehende Systeme nachhaltig weiterzuentwickeln.
+
+Gerne würde ich meine fachlichen und persönlichen Stärken bei Statistik Austria
+einbringen und dazu beitragen, leistungsfähige und zukunftssichere Backend-Lösungen
+zu gestalten. Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr.

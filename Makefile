@@ -1,7 +1,7 @@
 .PHONY: clean prune all install
 NOW := $(shell date +"%Y%m%d-%H%M" | tr ' :' '__')
 
-all: cv.de-at.pdf cv.en-us.pdf
+all: cv.de-at.pdf cv.en-us.pdf motivation.statistik.de-at.pdf
 
 cv.de-at.pdf: \
 	vocational/*.de.tex \
@@ -20,6 +20,10 @@ cv.en-us.pdf: \
 	skills/*.xx.tex \
 	cv.en-us.tex
 	latexmk -silent -pdf -pdflatex="pdflatex -interaction=nonstopmode" cv.en-us.tex
+
+motivation.statistik.de-at.pdf: \
+	motivation.statistik.de-at.tex
+	latexmk -silent -pdf -pdflatex="pdflatex -interaction=nonstopmode" motivation.statistik.de-at.tex
 
 # clean intermediate files, keep PDFs
 clean:
