@@ -35,5 +35,5 @@ prune:
 
 # copy PDFs to iCloud drive
 install:
-	cp cv.en-us.pdf ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/cv/cv.en-us.$(NOW).pdf
-	cp cv.de-at.pdf ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/cv/cv.de-at.$(NOW).pdf
+	cp cv.en-us.pdf ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/cv/cv.dehmer_horst.en-us.$(NOW).pdf
+	cp cv.de-at.pdf ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/cv/cv.dehmer_horst.de-at.$(NOW).pdf
