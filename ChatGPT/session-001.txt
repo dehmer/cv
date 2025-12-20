@@ -1,0 +1,71 @@
+> Schreibe bitte ein Motivationsschreiben für die Position eines Senior Java Backend Developers der Firma Statistik Austria.
+
+Motivationsschreiben
+Sehr geehrte Damen und Herren,
+
+mit großem Interesse bewerbe ich mich um die Position als Senior Java
+Backend Developer bei Statistik Austria. Die Kombination aus technologisch
+anspruchsvoller Softwareentwicklung und der gesellschaftlich wichtigen
+Aufgabe, verlässliche statistische Grundlagen für Politik, Wirtschaft und
+Gesellschaft bereitzustellen, spricht mich in besonderem Maße an.
+
+In meiner bisherigen beruflichen Laufbahn konnte ich umfangreiche Erfahrung
+in der Entwicklung, Wartung und Weiterentwicklung komplexer Backend-Systeme
+auf Basis von Java sammeln. Der Fokus lag dabei auf der Umsetzung stabiler,
+skalierbarer und wartbarer Architekturen, häufig in serviceorientierten bzw.
+verteilten Systemlandschaften. Dabei war es mir stets wichtig, Clean Code,
+bewährte Design Patterns sowie automatisierte Tests konsequent einzusetzen,
+um langfristige Qualität und Nachhaltigkeit der Software sicherzustellen.
+
+Als Senior Developer sehe ich meine Rolle nicht nur in der technischen
+Umsetzung, sondern auch in der fachlichen Unterstützung von Teamkolleginnen
+und -kollegen. Ich bringe Erfahrung in Code-Reviews, technischer Konzeption
+sowie in der Zusammenarbeit mit interdisziplinären Teams mit und lege großen
+Wert auf klare Kommunikation und strukturierte Arbeitsweise. Agiles Arbeiten,
+etwa nach Scrum oder Kanban, ist mir ebenso vertraut wie die Zusammenarbeit
+mit Fachabteilungen und Stakeholdern.
+
+Besonders reizvoll an Statistik Austria ist für mich der verantwortungsvolle
+Umgang mit sensiblen Daten sowie der hohe Anspruch an Datenqualität,
+Sicherheit und Nachvollziehbarkeit. Die Entwicklung robuster
+Backend-Lösungen, die als Grundlage für statistische Auswertungen und
+Entscheidungsprozesse dienen, entspricht genau meinem Verständnis von
+sinnvoller und nachhaltiger Softwareentwicklung im öffentlichen Umfeld.
+
+Gerne möchte ich meine technischen Kenntnisse, meine Erfahrung und mein
+Qualitätsbewusstsein bei Statistik Austria einbringen und dazu beitragen,
+bestehende Systeme weiterzuentwickeln sowie neue Lösungen aktiv mitzugestalten.
+Über die Möglichkeit, meine Motivation und Qualifikationen in einem persönlichen
+Gespräch näher zu erläutern, würde ich mich sehr freuen.
+
+Mit freundlichen Grüßen
+[Dein Name]
+
+> Formuliere das Anschreiben bitte kürzer und prägnanter.
+
+Motivationsschreiben
+
+Sehr geehrte Damen und Herren,
+
+hiermit bewerbe ich mich um die Position als Senior Java Backend Developer
+bei Statistik Austria. Die Verbindung aus anspruchsvoller Softwareentwicklung
+und der gesellschaftlich relevanten Aufgabe der amtlichen Statistik
+motiviert mich besonders.
+
+Ich verfüge über mehrjährige Erfahrung in der Entwicklung und
+Weiterentwicklung komplexer Java-basierter Backend-Systeme. Dabei lege ich
+großen Wert auf saubere Architekturen, wartbaren Code sowie stabile und
+sichere Lösungen. Neben der technischen Umsetzung bringe ich Erfahrung in
+der konzeptionellen Arbeit, in Code-Reviews sowie in der Zusammenarbeit
+mit interdisziplinären Teams mit.
+
+Die hohen Anforderungen von Statistik Austria an Datenqualität, Sicherheit
+und Nachhaltigkeit entsprechen meinem eigenen Qualitätsanspruch. Gerne möchte
+ich meine Expertise einbringen, um bestehende Systeme weiterzuentwickeln
+und neue Lösungen aktiv mitzugestalten.
+
+Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr.
+
+Mit freundlichen Grüßen
+
+[Dein Name]
