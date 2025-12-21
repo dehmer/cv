@@ -1,12 +1,12 @@
-%\documentclass{moderncv}
 \documentclass[12pt,a4paper,sans]{moderncv}
-\definecolor{color1}{rgb}{0.149, 0.3804, 0.6118} %% #26619c - lapis lazuli
 \moderncvstyle[]{classic}
 \usepackage[ngerman]{babel}
-\usepackage[ngerman]{datetime2}
 \usepackage[utf8]{inputenc}
 \usepackage[left=2.5cm,right=2.5cm,top=2.5cm,bottom=2cm,includeheadfoot]{geometry}
 \usepackage{lmodern}
+
+% Increase space between letter closing and name:
+\patchcmd{\makeletterclosing}{[3em]}{[4em]}{}{}
 
 \firstname{Horst}
 \familyname{Dehmer}
@@ -15,22 +15,22 @@
 \mobile{+43~(664)~544~1826}
 \email{horst.dehmer@gmail.com}
 
-% Letter Information
 \recipient
 {Mag. Friedrich Csaicsich}
-{Statistics Austria\\Guglgasse 13\\A-1110 Wien}
+{Statistik Austria\\Guglgasse 13\\A-1110 Wien}
 \date{\today}
 
-\opening{Sehr geehrter Herr Mag. Csaicsich,} % Opening greeting
-\closing{Mit freundlichen Grüßen} % Closing phrase
+\opening{Sehr geehrter Herr Mag. Csaicsich,}
+\closing{Mit freundlichen Grüßen}
+
 \begin{document}
-\setcounter{page}{0}        % Change if letter is more than 1 page
-\makelettertitle            % Print letter title
+\setcounter{page}{0}
+\makelettertitle
 
 mit sehr großem Interesse bewerbe ich mich auf die von Ihnen ausgeschriebene
 Position als \textbf{Senior Java Backend Developer}. Die Möglichkeit, in einem
-Umfeld mit hoher gesellschaftlicher Relevanz nachhaltige Lösungen zu entwerfen
-und umzusetzen, empfinde ich als äußerst attraktiv.
+Unternehmen mit hoher gesellschaftlicher Relevanz nachhaltige Lösungen zu
+entwerfen und umzusetzen, erscheint mir außerordentlich attraktiv.
 
 Als Software-Ingenieur mit langjähriger Erfahrung decke ich ein breites
 Spektrum des Entwicklungsprozesses vom Aufbereiten der Anforderungen,
@@ -58,7 +58,8 @@ Wie Sie meinem CV entnehmen können, ist mir eine langfristige und
 partnerschaftliche Zusammenarbeit wichtig, die von Vertrauen und einem
 konstruktiven Umgang geprägt ist. Diese Art der Zusammenarbeit möchte
 ich gerne im Anstellungsverhältnis mit Statistik Austria fortführen.
-Über eine Einladung zu einem persönlichen Gedankenaustausch freue ich mich deshalb sehr.
+Über eine Einladung zu einem persönlichen Gespräch freue ich
+mich deshalb sehr.
 
-\makeletterclosing          % Print letter signature
+\makeletterclosing
 \end{document}
